@@ -33,6 +33,6 @@
 
 ```text
 项目文件夹
-├── main.py
+├── 教务系统最终版.py
 ├── 学生信息.json
 └── README.md
